@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sBullet_strip2.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sCrate.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sDead_strip2.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sDust_strip11.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sEbullet_strip2.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sEnemy.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sEnemyA_strip2.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sEnemyR_strip4.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sGun.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sGun1.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sHitSpark_strip4.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sMountain.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sPlayer.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sPlayer_a_strip2.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sPlayer_r_strip4.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/Square.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sTiles.png</File>
+    <File>C:/Users/Zachg/source/repos/Platformer/Platformer/Content/sTrees.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,119 @@
+NewLevel
+100
+100
+25
+Player 240 240
+Block 0 350
+Block 50 350
+Block 100 350
+Block 150 350
+Block 200 350
+Block 250 350
+Block 300 350
+Block 350 350
+Block 400 350
+Block 450 350
+Block 500 350
+Block 550 350
+Block 600 350
+Block 650 350
+Block 700 350
+Block 700 400
+Block 650 450
+Block 600 450
+Block 550 450
+Block 500 450
+Block 450 450
+Block 400 450
+Block 350 450
+Block 350 400
+Block 300 400
+Block 250 400
+Block 200 400
+Block 150 400
+Block 100 400
+Block 50 400
+Block 0 400
+Block -50 400
+Block -100 450
+Block -50 450
+Block 0 450
+Block 50 450
+Block 100 450
+Block 150 450
+Block 150 400
+Block 200 400
+Block 250 400
+Block 300 400
+Block 350 400
+Block 400 400
+Block 450 400
+Block 450 450
+Block 400 450
+Block 350 500
+Block 300 500
+Block 250 500
+Block 200 500
+Block 150 500
+Block 150 450
+Block 200 450
+Block 250 450
+Block 300 450
+Block 350 450
+Block 400 450
+Block 450 450
+Block 500 400
+Block 550 400
+Block 550 350
+Block 600 350
+Block 650 350
+Block 650 400
+Block 600 400
+Block 600 450
+Block 550 450
+Block 550 400
+Block 600 400
+Block 600 350
+Block 700 300
+Block 650 300
+Block 0 300
+Block 50 300
+Enemy 432 144
+Enemy 144 96
+Enemy 288 96
+GrassTile 608 96 0 0
+GrassTile 640 96 0 0
+GrassTile 672 96 0 0
+GrassTile 704 96 0 0
+GrassTile 736 96 5 0
+GrassTile 736 128 5 0
+GrassTile 736 160 5 0
+GrassTile 704 160 5 0
+GrassTile 704 128 5 0
+GrassTile 704 128 6 0
+GrassTile 736 128 6 0
+GrassTile 736 160 6 0
+GrassTile 704 160 6 0
+GrassTile 544 96 6 5
+GrassTile 320 224 6 5
+GrassTile 160 640 6 5
+GrassTile -320 32 6 5
+Gun 224 234
+Gun 168 648
+Gun -280 -9
+Gun 168 639
+Gun -336 9
+GrassTile 384 320 0 0
+GrassTile 352 320 0 0
+GrassTile 384 320 0 0
+GrassTile 384 352 0 0
+GrassTile 384 384 0 0
+GrassTile 416 384 0 0
+GrassTile 448 384 0 0
+GrassTile 480 384 0 0
+GrassTile 512 384 0 0
+GrassTile 512 416 0 0
+GrassTile 544 416 0 0
+GrassTile 576 416 0 0
+GrassTile 160 640 0 0
+GrassTile -224 128 0 0
